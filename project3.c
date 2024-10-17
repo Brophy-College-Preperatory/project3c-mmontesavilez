@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//Mario Montes and Cody Bonheimer
 int main(void){
     int Quarters = 25;
     int Dimes = 10;
